@@ -1,4 +1,4 @@
-import MovieSkeleton from "@/components/MovieSkeleton";
+import MovieSkeleton from "@/components/search/MovieSkeleton";
 
 export default function Loading() {
   return (

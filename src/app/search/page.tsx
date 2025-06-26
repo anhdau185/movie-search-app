@@ -1,4 +1,4 @@
-import MovieGrid from "@/components/MovieGrid";
+import MovieGrid from "@/components/search/MovieGrid";
 import { searchMovies } from "@/lib/api";
 
 export default async function SearchPage({
